@@ -3,8 +3,20 @@
 A list of directories and files of a certain directory in Linux is considered, for example:
 
 
-|.<br/> ./download_client.sh<br/> ./random1000_queries_sport.txt<br/> ./times.txt<br/> ./site<br/> ./site/site_kz_domains_random1000_2011-07-26.txt<br/> ./site/site_ru_domains_top1000_2011-07-27.txt<br/> ./site/site_by_domains_top1000_2011-07-27.txt<br/> ./site/kz<br/> ./site/kz/random1000<br/> ./site/kz/random1000/site_kz_random1000_2011-07-16.xml<br/> ./site/ru<br/> ./site/ru/random1000 |
-|-------------------------|
+    .
+    ./download_client.sh
+    ./random1000_queries_sport.txt
+    ./times.txt
+    ./site
+    ./site/site_kz_domains_random1000_2011-07-26.txt
+    ./site/site_ru_domains_top1000_2011-07-27.txt
+    ./site/site_by_domains_top1000_2011-07-27.txt
+    ./site/kz
+    ./site/kz/random1000
+    ./site/kz/random1000/site_kz_random1000_2011-07-16.xml
+    ./site/ru
+    ./site/ru/random1000
+
 
 The program converts this list from one format to another. 
 
