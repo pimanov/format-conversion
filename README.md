@@ -1,6 +1,6 @@
 # format-conversion
 
-A list of directories and files of a certain Linux directory is considered. For example:
+Consider a list of directories and files of a certain Linux directory. For example:
 
 
     .
@@ -18,16 +18,16 @@ A list of directories and files of a certain Linux directory is considered. For 
     ./site/ru/random1000
 
 
-The program converts this list from one format to another. It is implemented on C++.
+The program converts the list from one format to another. It is implemented on C++.
 
 
 ## Input Format
 
-The first two lines contain the names of the input and output formats. Both strings from the set "find", "python", "acm1", "acm2", "acm3", "xml". The directory tree is described in the subsequent lines. The form of directory tree corresponds to the input format from the first line. The goal is to return the directory tree to output file in the output format.
+The first two lines contain the names of the input and output formats. Both strings from the set "find", "python", "acm1", "acm2", "acm3", "xml". The directory tree is described in the subsequent lines. The form of directory tree corresponds to the input format from the first line. The goal is to return the directory tree to the output file in the output format.
 
-## Output Format
+## Output Format 
 
-Output file with the list of files in the output format. 
+Output file with the list of files in the output format.
 
 ## Example of run
 
